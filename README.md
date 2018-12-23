@@ -12,3 +12,5 @@ Do : _pip install keras/matplotlib/pandas/numpy_
 https://bitbucket.org/jadslim/german-traffic-signs
 
 ### For faster training and testing purposes,use _GOOGLE COLAB_.
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/29462447/50386323-57771480-070a-11e9-8b15-224692150da3.gif)
